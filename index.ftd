@@ -1,6 +1,6 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 as hero
--- import: <user_name>.github.io/<repo_name>/lib
+-- import: cyberbuddy-manas.github.io/fastnfoliotemp/lib
 
 -- lib.page:
 
@@ -9,20 +9,22 @@ logo: $assets.files.assets.logo.jpg
 logo-text: Portfolio
 cta-text-1: Home
 cta-text-2: About
-cta-text-3: Resume
-cta-text-1-url: index.html
-cta-text-2-url: index.html#about
-cta-text-3-url: index.html
+cta-text-3: Company
+cta-text-4: Also Checkout
+cta-text-1-url: #
+cta-text-2-url: #about
+cta-text-3-url: https://rkinfotechsolutions.com
+cta-text-4-url: https://manas.cyberbuddy.live
 
--- hero.hero-1: I'm John Doe
+-- hero.hero-1: I'm Manas Gupta
 cta-button-1: Resume
-link-1: https://www.resume.com/
+link-1: https://manasgupta.blob.core.windows.net/manas/Manas%20Gupta(2023)(kpmg).pdf
 cta-button-2: Schedule Meeting
-link-2: https://calendly.com/
-cover: $assets.files.assets.ape-1.jpg
+link-2: https://calendly.com/cyberbuddy/lets-chat
+cover: $assets.files.assets.ape-1.png
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+A passionate individual who loves teaching and learning new concepts. I believe problem-solving is critical and that everyone
+can develop this skill by helping others. My focus is on understanding problems, leveraging technology, and having fun. 
 
 
 -- end: lib.page
